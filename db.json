@@ -724,16 +724,9 @@
     {
       "productId": "3",
       "cartPrice": 358.602,
-      "quantity": 5,
+      "quantity": 6,
       "userId": 1,
       "id": "Áo Thun Nam ICONDENIM ICDN Graffy_3"
-    },
-    {
-      "productId": "6",
-      "cartPrice": 473.797,
-      "quantity": 1,
-      "userId": 1,
-      "id": "Áo Thun Nam ICONDENIM ICDN Graffy_6"
     }
   ]
 }
