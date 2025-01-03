@@ -1,5 +1,4 @@
 import { Route, Routes } from "react-router-dom";
-import RegisterPage from "./page/RegisterPage";
 import { ToastContainer } from "react-toastify";
 import ProductsTable from "./admin/ProductsTable";
 import ProductsForm from "./admin/ProductsForm";
@@ -9,7 +8,8 @@ import HomePage from "./page/HomePage";
 import NotFoundPage from "./component/NotFoundPage";
 import CartPage from "./page/CartPage";
 import ProductsPage from "./page/ProductsPage";
-import LoginPage from "./page/RegisterPage";
+import LoginPage from "./page/LoginPage";
+import RegisterPage from "./page/RegisterPage";
 
 export default function App() {
   return (
