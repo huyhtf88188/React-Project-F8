@@ -691,6 +691,12 @@
       "password": "$2a$10$zozdn5P0queNImSgmKHaJOnXqhPrFaWe/PrYRzmI/mqRllJ1N58Cy",
       "confirm": "123123123",
       "id": 4
+    },
+    {
+      "email": "dfdfdf@gmail.com",
+      "password": "$2a$10$Rt/4e2nKqALaNAtRYpJV0uL9bKki5fr65udhqxplU6j1JB4nHW262",
+      "confirm": "123123123",
+      "id": 5
     }
   ],
   "carts": [
