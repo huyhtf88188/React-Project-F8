@@ -1,6 +1,5 @@
 import { Route, Routes } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
-import LoginPage from "./page/LoginPage";
 import RegisterPage from "./page/RegisterPage";
 import ProductDetail from "./page/ProductDetail";
 import ProductsPage from "./page/ProductsPage";
@@ -10,6 +9,7 @@ import ProductsForm from "./admin/ProductsForm";
 import NotFoundPage from "./component/NotFoundPage";
 import HomePage from "./page/HomePage";
 import LayoutClient from "./layout/LayoutClient";
+import LoginPage from "./page/LoginPage";
 
 export default function App() {
   return (
