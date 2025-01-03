@@ -1,0 +1,733 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 11111111,
+      "rating": 4.09,
+      "stock": 30,
+      "category": "T-shirt",
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID7993-18",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Rất Đẹp",
+          "date": "2024-02-12T08:47:02.376406",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Chất Lượng Kém!",
+          "date": "2024-11-24T08:47:02.376431",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Hài Lòng",
+          "date": "2023-12-31T08:47:02.376442",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://res.cloudinary.com/dgyto87ra/image/upload/v1735742943/apple_ehwa74.png",
+      "description": "ádasdasdasd"
+    },
+    {
+      "id": 2,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 364.406,
+      "rating": 3.64,
+      "category": "T-shirt",
+      "stock": 40,
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID4527-34",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Hài Lòng",
+          "date": "2024-06-08T08:47:02.376462",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Hài Lòng",
+          "date": "2024-02-16T08:47:02.376471",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-07-23T08:47:02.376480",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__1__4a7c736f80b3492b8b1e862705f49beb_1024x1024.jpg",
+      "description": "aaaaaaaaa"
+    },
+    {
+      "id": 3,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 358.602,
+      "rating": 3.13,
+      "category": "T-shirt",
+      "stock": 37,
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID9859-18",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Chất Lượng Kém!",
+          "date": "2024-02-13T08:47:02.376502",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Hài Lòng",
+          "date": "2024-03-05T08:47:02.376510",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Chất Lượng Kém!",
+          "date": "2024-03-23T08:47:02.376515",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Rất Đẹp",
+          "date": "2024-08-17T08:47:02.376521",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-07-25T08:47:02.376526",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__1__4a7c736f80b3492b8b1e862705f49beb_1024x1024.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 303.879,
+      "rating": 4.54,
+      "category": "T-shirt",
+      "stock": 25,
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID7806-98",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Rất Đẹp",
+          "date": "2024-12-20T08:47:02.376538",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-11-02T08:47:02.376546",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__1__4a7c736f80b3492b8b1e862705f49beb_1024x1024.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 218.971,
+      "rating": 1.6,
+      "category": "T-shirt",
+      "stock": 2,
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID6722-15",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Hài Lòng",
+          "date": "2024-11-27T08:47:02.376564",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Hài Lòng",
+          "date": "2024-09-12T08:47:02.376569",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Rất Đẹp",
+          "date": "2024-01-29T08:47:02.376574",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-06-08T08:47:02.376579",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Rất Đẹp",
+          "date": "2024-11-24T08:47:02.376585",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__1__4a7c736f80b3492b8b1e862705f49beb_1024x1024.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 473.797,
+      "rating": 4.14,
+      "stock": 34,
+      "category": "T-shirt",
+      "tags": [
+        "Áo Thun",
+        "Áo"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID1713-89",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Chất Lượng Kém!",
+          "date": "2024-11-13T08:47:02.376612",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-08-17T08:47:02.376620",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__1__4a7c736f80b3492b8b1e862705f49beb_1024x1024.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 297.948,
+      "rating": 4.88,
+      "category": "jeans",
+      "stock": 32,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID7537-77",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Chất Lượng Kém!",
+          "date": "2024-09-15T08:47:02.376631",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Hài Lòng",
+          "date": "2024-09-04T08:47:02.376636",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Đáng Giá",
+          "date": "2024-05-18T08:47:02.376641",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Hài Lòng",
+          "date": "2024-05-10T08:47:02.376646",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 464.706,
+      "rating": 2.14,
+      "category": "jeans",
+      "stock": 15,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID7439-55",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Hài Lòng",
+          "date": "2024-11-20T08:47:02.376664",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Rất Đẹp",
+          "date": "2024-09-22T08:47:02.376670",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 381.008,
+      "rating": 1.56,
+      "category": "jeans",
+      "stock": 49,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID5967-29",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Hài Lòng",
+          "date": "2024-01-08T08:47:02.376681",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-06-16T08:47:02.376686",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 471.839,
+      "rating": 4.01,
+      "category": "jeans",
+      "stock": 31,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID8240-58",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Hài Lòng",
+          "date": "2024-03-31T08:47:02.376697",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Hài Lòng",
+          "date": "2024-06-20T08:47:02.376702",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-09-10T08:47:02.376707",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Rất Đẹp",
+          "date": "2024-03-28T08:47:02.376713",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Đáng Giá",
+          "date": "2024-02-24T08:47:02.376721",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 255.258,
+      "rating": 4.13,
+      "category": "jeans",
+      "stock": 25,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID6693-99",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Hài Lòng",
+          "date": "2024-07-07T08:47:02.376738",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Hàng Không Giống Hình",
+          "date": "2024-05-17T08:47:02.376743",
+          "reviewerName": "Liam Smith",
+          "reviewerEmail": "liam.smith@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Áo Thun Nam ICONDENIM ICDN Graffy",
+      "description_1": "Áo thun được làm từ chất liệu cotton mềm mại và thấm hút mồ hôi tốt giúp tạo cảm giác thoải mái và dễ chịu cho người mặc. Chất liệu có độ bền cao nên có thể thoải mái giặt giũ mà vẫn giữ được phom dáng và vẻ đẹp bền lâu.",
+      "description_2": "Thiết kế với gam màu đỏ nổi bật, tạo ấn tượng mạnh ngay từ cái nhìn đầu tiên. Điểm nhấn thêu mút chỉ màu đen ở thân trước kết hợp cùng chi tiết in xốp nổi và phần gắn dưới lai không chỉ tăng tính thẩm mỹ mà còn mang lại nét trẻ trung, phá cách.",
+      "description_3": "Form dáng regular vừa vặn, linh hoạt với mọi dáng người, giúp người mặc thoải mái nhưng vẫn giữ vẻ ngoài gọn gàng. Thiết kế có tính ứng dụng cao, dễ dàng phối hợp với nhiều loại quần khác nhau như quần jean, quần short hay quần kaki.",
+      "price": 233.373,
+      "rating": 1.31,
+      "category": "jeans",
+      "stock": 8,
+      "tags": [
+        "jeans"
+      ],
+      "brand": "ICONDENIM",
+      "sku": "ATID5246-65",
+      "weight": "300gr",
+      "warrantyInformation": "Đổi trả trong 15 ngày",
+      "shippingInformation": "Ship trong 1 tuần",
+      "availabilityStatus": "Còn Hàng",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Hài Lòng",
+          "date": "2024-05-20T08:47:02.376753",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Rất Đẹp",
+          "date": "2024-08-01T08:47:02.376758",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Đáng Giá",
+          "date": "2024-02-29T08:47:02.376763",
+          "reviewerName": "Emma Johnson",
+          "reviewerEmail": "emma.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Đáng Giá",
+          "date": "2024-09-25T08:47:02.376769",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "Chính sách trả hàng trong vòng 30 ngày",
+      "images": [
+        {
+          "img-1": "https://product.hstatic.net/1000253775/product/ao-thun-icondenim-icdn-graffy__6__79590dfe34da46b6ae36310d0170da55_1024x1024.jpg"
+        },
+        {
+          "img-2": "https://product.hstatic.net/1000253775/product/ao_thun_regular_d985058ac21b46d0922c58bfa47c394f_1024x1024.jpg"
+        }
+      ],
+      "thumbnail": "https://product.hstatic.net/1000253775/product/quan-smart-jeans-nam-icondenim-oceanic-indigo__14__04e7fe3621324c2188b294bedcc5c589_1024x1024.jpg"
+    }
+  ],
+  "users": [
+    {
+      "email": "hhhoanghuy@yahoo.com",
+      "password": "$2a$10$0I7doi0ErAc8yK7Znkpw4eqi8Dxz09xIU/OmbxTVy/hAClZnGkzGm",
+      "confirm": "123123123",
+      "id": 1,
+      "role": "admin"
+    },
+    {
+      "email": "hhhoangthanhhuy1992@gmail.com",
+      "password": "$2a$10$.d6sASYdKoyTD5g0kh4nRO1m8FxiQtliVxR91.k0ZWFjzY0RRsMue",
+      "confirm": "123123123",
+      "id": 2
+    },
+    {
+      "email": "fgfgfgf@gmail.com",
+      "password": "$2a$10$I7jeyZBcMtTkOVgg3/5yOeX0nEsGFkEenRP6/DmPaaJ.3ctASmRDi",
+      "confirm": "123123123",
+      "id": 3
+    },
+    {
+      "email": "ffgfgfgw2@gmail.com",
+      "password": "$2a$10$zozdn5P0queNImSgmKHaJOnXqhPrFaWe/PrYRzmI/mqRllJ1N58Cy",
+      "confirm": "123123123",
+      "id": 4
+    }
+  ],
+  "carts": [
+    {
+      "id": 2,
+      "userId": 1,
+      "quantity": 4,
+      "productId": 4,
+      "cartPrice": 303.879
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "quantity": 4,
+      "productId": 4,
+      "cartPrice": 303.879
+    },
+    {
+      "productId": "11",
+      "cartPrice": 255.258,
+      "quantity": 4,
+      "userId": 1,
+      "id": "Áo Thun Nam ICONDENIM ICDN Graffy_11"
+    },
+    {
+      "productId": "3",
+      "cartPrice": 358.602,
+      "quantity": 5,
+      "userId": 1,
+      "id": "Áo Thun Nam ICONDENIM ICDN Graffy_3"
+    },
+    {
+      "productId": "6",
+      "cartPrice": 473.797,
+      "quantity": 1,
+      "userId": 1,
+      "id": "Áo Thun Nam ICONDENIM ICDN Graffy_6"
+    }
+  ]
+}
