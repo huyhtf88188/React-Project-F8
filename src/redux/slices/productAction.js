@@ -1,10 +1,11 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import {
-  addProduct,
   getAllProducts,
-  updateProduct,
-  deleteProduct,
   getProductsById,
+  addProduct,
+  deleteProduct,
+  updateProduct,
+  updateProductStock,
 } from "../../services/productServices";
 
 export const fetchProducts = createAsyncThunk(
@@ -28,6 +29,7 @@ export const createProduct = createAsyncThunk(
   }
 );
 
+// Sửa sản phẩm
 export const editProduct = createAsyncThunk(
   "products/editProduct",
   async ({ id, product }) => {
@@ -35,10 +37,17 @@ export const editProduct = createAsyncThunk(
   }
 );
 
+// Xóa sản phẩm
 export const removeProduct = createAsyncThunk(
   "products/removeProduct",
   async (id) => {
     await deleteProduct(id);
     return id;
+  }
+);
+export const updateStock = createAsyncThunk(
+  "products/updateStock",
+  async ({ id, quantity }) => {
+    return await updateProductStock(id, quantity);
   }
 );

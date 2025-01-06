@@ -4,6 +4,7 @@ export const getAllProducts = async () => {
   const { data } = await instance.get("/products");
   return data;
 };
+
 export const getProductsById = async (id) => {
   const { data } = await instance.get(`/products/${id}`);
   return data;
@@ -20,9 +21,11 @@ export const deleteProduct = async (id) => {
 };
 
 export const updateProduct = async (id, product) => {
-  console.log(id, product);
   const { data } = await instance.patch(`/products/${id}`, product);
-  console.log(data);
+  return data;
+};
 
+export const updateProductStock = async (id, quantity) => {
+  const { data } = await instance.patch(`/products/${id}/stock`, { quantity });
   return data;
 };

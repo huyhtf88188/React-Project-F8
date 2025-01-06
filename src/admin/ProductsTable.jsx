@@ -23,12 +23,18 @@ const ProductsTable = () => {
       <h1 className="text-3xl font-bold mb-4 text-center">
         Trang Quản Lý Sản Phẩm
       </h1>
-      <div className=" mt-5 mb-5 flex items-center justify-center">
+      <div className=" mt-5 mb-5 flex items-center justify-center gap-1">
         <Link
-          to="/product_form"
+          to="/admin/product_form"
           className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600"
         >
           Add Products
+        </Link>
+        <Link
+          to="/"
+          className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600"
+        >
+          Go Back Home Page
         </Link>
       </div>
       <div className="max-w-7xl mx-auto bg-white rounded-lg shadow-md">
@@ -66,7 +72,7 @@ const ProductsTable = () => {
                           Remove
                         </button>
                         <Link
-                          to={`/product_form/${item.id}`}
+                          to={`/admin/product_form/${item.id}`}
                           className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600"
                         >
                           Update

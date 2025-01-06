@@ -29,25 +29,25 @@ const Header = () => {
           </div>
         </div>
         <nav className="flex container mx-auto items-center justify-between px-6 py-6  shadow-lg">
-          <div className="text-2xl font-bold">HH STORE</div>
+          <Link to="/" className="text-2xl font-bold">
+            HH STORE
+          </Link>
 
           <ul className="flex space-x-6 text-sm relative">
             <li className="relative group">
-              <a href="#" className="hover:text-orange-500">
+              <Link to="/" className="hover:text-orange-500">
                 HÀNG MỚI
-              </a>
+              </Link>
             </li>
 
             <li className="relative group">
-              <a href="#" className="hover:text-orange-500">
+              <Link to="/products" className="hover:text-orange-500">
                 SẢN PHẨM
-              </a>
+              </Link>
               <ul className="absolute w-40 left-0 top-full hidden group-hover:flex flex-col bg-gray-800 text-white border border-gray-700 shadow-lg space-y-2 mt-2 p-2 z-10">
-                <li className="px-4 py-1 hover:bg-gray-700">Tất Cả Sản Phẩm</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Hàng Bán Chạy</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Áo</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Quần</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Phụ Kiện</li>
+                <Link to="/products" className="px-4 py-1 hover:bg-gray-700">
+                  Tất Cả Sản Phẩm
+                </Link>
               </ul>
             </li>
 
@@ -56,10 +56,12 @@ const Header = () => {
                 ÁO NAM
               </a>
               <ul className="absolute w-40 left-0 top-full hidden group-hover:flex flex-col bg-gray-800 text-white border border-gray-700 shadow-lg space-y-2 mt-2 p-2 z-10">
-                <li className="px-4 py-1 hover:bg-gray-700">Áo Thun</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Áo Polo</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Áo Sơ Mi</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Áo Khoác</li>
+                <Link
+                  to="/products?category=pants"
+                  className="px-4 py-1 hover:bg-gray-700"
+                >
+                  Áo Thun
+                </Link>
               </ul>
             </li>
 
@@ -68,20 +70,12 @@ const Header = () => {
                 QUẦN NAM
               </a>
               <ul className="absolute w-40 left-0 top-full hidden group-hover:flex flex-col bg-gray-800 text-white border border-gray-700 shadow-lg space-y-2 mt-2 p-2 z-10">
-                <li className="px-4 py-1 hover:bg-gray-700">Quần Jeans</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Quần Tây</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Quần Short</li>
-              </ul>
-            </li>
-
-            <li className="relative group">
-              <a href="#" className="hover:text-orange-500">
-                PHỤ KIỆN
-              </a>
-              <ul className="absolute w-40 left-0 top-full hidden group-hover:flex flex-col bg-gray-800 text-white border border-gray-700 shadow-lg space-y-2 mt-2 p-2 z-10">
-                <li className="px-4 py-1 hover:bg-gray-700">Thắt Lưng</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Ví Da</li>
-                <li className="px-4 py-1 hover:bg-gray-700">Nón</li>
+                <Link
+                  to="/products?category=pants"
+                  className="px-4 py-1 hover:bg-gray-700"
+                >
+                  Quần Jeans
+                </Link>
               </ul>
             </li>
           </ul>
@@ -142,7 +136,7 @@ const Header = () => {
                     </div>
                     {role && role === "admin" && (
                       <Link
-                        to="/product_table"
+                        to="admin"
                         className="block px-4 py-2 text-sm text-gray-700"
                         role="menuitem"
                         tabIndex="-1"

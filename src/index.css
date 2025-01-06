@@ -30,3 +30,17 @@ html {
   font-weight: 500;
   font-style: normal;
 }
+
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 30vh;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #f7fafc;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}

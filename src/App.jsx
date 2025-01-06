@@ -10,6 +10,7 @@ import NotFoundPage from "./component/NotFoundPage";
 import HomePage from "./page/HomePage";
 import LayoutClient from "./layout/LayoutClient";
 import LoginPage from "./page/LoginPage";
+import Dasbroad from "./admin/Dasbroad";
 
 export default function App() {
   return (
@@ -17,14 +18,17 @@ export default function App() {
       <Routes>
         <Route path="/" element={<LayoutClient />}>
           <Route index element={<HomePage />} />
-          <Route path="/products/:id" element={<ProductDetail />} />
-          <Route path="/products" element={<ProductsPage />} />
-          <Route path="/cart" element={<CartPage />} />
+          <Route path="products/:id" element={<ProductDetail />} />
+          <Route path="products" element={<ProductsPage />} />
+          <Route path="cart" element={<CartPage />} />
         </Route>
 
-        <Route path="/product_table" element={<ProductsTable />} />
-        <Route path="/product_form" element={<ProductsForm />} />
-        <Route path="/product_form/:id" element={<ProductsForm />} />
+        <Route path="/admin" element={<Dasbroad />}>
+          <Route index element={<ProductsTable />} />
+          <Route path="product_form" element={<ProductsForm />} />
+          <Route path="product_form/:id" element={<ProductsForm />} />
+        </Route>
+
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="*" element={<NotFoundPage />} />
